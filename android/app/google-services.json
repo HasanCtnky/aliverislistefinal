@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "271959768154",
+    "project_id": "alisverislistesideneme",
+    "storage_bucket": "alisverislistesideneme.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:271959768154:android:ba2ec974e3a3e2009dec63",
+        "android_client_info": {
+          "package_name": "com.example.alisverislistedeneme"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "271959768154-95ro8ed79fmednkv4mckggiji5jhroih.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXU9fI4Uiw3PO8WXhpJj1SSYeLeB8J67w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "271959768154-95ro8ed79fmednkv4mckggiji5jhroih.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
